@@ -1,0 +1,5 @@
+pytz~=2023.3
+pony~=0.7.16
+coloredlogs~=15.0.1
+python-dotenv~=1.0.0
+pytelegrambotapi~=4.11.0
